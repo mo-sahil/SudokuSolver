@@ -72,10 +72,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Make your changes and test thoroughly.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - **Mo Sahil**  
